@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rom;Uddamvathanak;;;
+FN:Rom Uddamvathanak
+TEL;TYPE=CELL:+6582076870
+URL;TYPE=WORK:https://uddamvathanak.github.io/
+item1.URL:https://github.com/uddamvathanak
+item1.X-ABLabel:GitHub
+NOTE:WhatsApp: https://wa.me/6582076870
+item2.URL:https://www.linkedin.com/in/rom-uddamvathanak/
+item2.X-ABLabel:LinkedIn
+END:VCARD

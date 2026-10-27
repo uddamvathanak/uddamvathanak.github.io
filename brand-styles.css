@@ -1,0 +1,28 @@
+:root{--paper:#f7f8fc;--ink:#182c4b;--muted:#566780;--line:#d6deeb;--green:#003087;--lime:#ffffff}
+.accent,.monogram span{color:#da291c}
+.button:hover{background:#00215e}
+.button-outline{border-color:#9bafd0}
+.button-outline:hover{background:#e7edf8;color:#003087}
+.dot{background:#da291c}
+.identity-art{background:#e5ebf7}
+.art-grid{background-image:linear-gradient(#b9c7e066 1px,transparent 1px),linear-gradient(90deg,#b9c7e066 1px,transparent 1px)}
+.orbit{border-color:#7f98c166}
+.art-initials{color:#003087}
+.art-caption{color:#003087}
+.art-cross{color:#da291c}
+.affiliation{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:16px 8px;border-bottom:1px solid var(--line)}
+.affiliation>span{font-size:10px;color:var(--muted)}
+.affiliation img{display:block;width:180px;max-width:60%;height:auto}
+.connect{background:#003087}
+.connect h2 span{color:#ffaaa3}
+.connect .eyebrow,.connect p:not(.eyebrow),.contact-hint{color:#d6e2fa}
+.button-light{background:#fff;color:#003087}
+.button-light:hover{background:#e4ebf8;color:#003087}
+.button-ghost{border-color:#91a9d1}
+.button-ghost:hover{background:#164694}
+.contact-phone{color:white}
+.contact-phone:hover{color:#ffccc7}
+.tags span{color:#405d89;border-color:#c8d4e9}
+.project:hover{background:#edf1f9}
+.research-links a{border-color:#a6b7d4}
+a:focus-visible{outline-color:#da291c}
